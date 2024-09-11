@@ -4,9 +4,6 @@
 
 I build fast, scalable, and user-friendly web & mobile applications. With a strong focus on clean code, performance, and delightful user experiences, I leverage the latest tools in web and mobile technologies.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu9VpFf5uV5Sj1O/giphy.gif" width="300" />
-</p>
 
 ---
 
@@ -28,16 +25,9 @@ I build fast, scalable, and user-friendly web & mobile applications. With a stro
 - **Heliverse** – User management app with pagination, update/delete functionality, and Tailwind CSS.
 - **Mobile Apps** – Built various apps including video calling, quizzes, and utility apps using React Native.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R6VXv3jhnpQ/giphy.gif" width="300" />
-</p>
 
 ---
 
 ### 🔥 **Currently Exploring:**
 - Scalable architectures in React Native
 - Real-time app optimization
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu9VpFf5uV5Sj1O/giphy
-

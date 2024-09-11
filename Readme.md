@@ -4,14 +4,12 @@
 
 I build fast, scalable, and user-friendly web & mobile applications. With a strong focus on clean code, performance, and delightful user experiences, I leverage the latest tools in web and mobile technologies.
 
-
 ---
 
 ### 🌟 **What I Do:**
 - **Frontend**: ReactJS, Tailwind CSS, GSAP Animations, Shimmer UI, Vite
 - **Mobile**: React Native, Firebase, Voximplant, ZEGOCLOUD
 - **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
-- **DevOps**: Docker, Google Cloud Platform, Vercel, Render
 - **State Management**: Redux, ContextAPI
 - **Database**: MongoDB, MariaDB, Sequelize
 - **Version Control**: Git, GitHub
@@ -25,9 +23,3 @@ I build fast, scalable, and user-friendly web & mobile applications. With a stro
 - **Heliverse** – User management app with pagination, update/delete functionality, and Tailwind CSS.
 - **Mobile Apps** – Built various apps including video calling, quizzes, and utility apps using React Native.
 
-
----
-
-### 🔥 **Currently Exploring:**
-- Scalable architectures in React Native
-- Real-time app optimization

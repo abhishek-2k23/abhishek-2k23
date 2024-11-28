@@ -18,7 +18,7 @@ I build fast, scalable, and user-friendly web & mobile applications. With a stro
 ---
 
 ### 🛠️ **Projects I'm Proud Of:**
-- **BlogApp** – Full-stack blogging platform with authentication, CRUD, and Cloudinary image storage. [href="https://blog-app-react-2k23.vercel.app/"]
+- **BlogApp** – Full-stack blogging platform with authentication, CRUD, and Cloudinary image storage. [https://blog-app-react-2k23.vercel.app/]
 - **Magnus** – MERN stack app with secure user login, registration, and validation.
 - **Heliverse** – User management app with pagination, update/delete functionality, and Tailwind CSS.
 - **Mobile Apps** – Built various apps including video calling, quizzes, and utility apps using React Native.

@@ -1,13 +1,10 @@
-<div align="center" style="width:100%">
 
-  <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=180&section=header&fontSize=30&text=Abhishek+Kumar&fontColor=fff&animation=twinkling&fontAlignY=35" style="width: 100%;"/>
-  </div>
+# Hey, i'm Abhishek
+<img src="https://komarev.com/ghpvc/?username=abhishek-2k23&style=for-the-badge">
 
-  <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&width=435&lines=Full+Stack+Developer;Mobile+Application+Developer;Exprience+in+Devops;" alt="Typing SVG" /></a>
-  </div>
+👨‍💻 Full-stack (MERN) & mobile developer with experience in DevOps, currently learning AI, LLMs, and building smart applications.
 
+## My tech stack
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
@@ -27,8 +24,17 @@
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" target="_blank">
   </div>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-2k23&theme=dracula">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-2k23&theme=dracula">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-2k23&theme=dracula">
+</p>
 
-  <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=120&section=footer&fontSize=90" style="width: 100%;"/>
-  </div>
-</div>
+ ## Where to find me
+ 
+<p align="left">
+ <a href="https://x.com/iamabhishek012"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/iamabhishek01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://github.com/abhishek-2k23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="mailto:kumar.abhishek2k23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
